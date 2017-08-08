@@ -3,21 +3,34 @@ body
 {
     background-color:#151515;
     background-image:linear-gradient(to left, #0000ff, black);
-    font-family: 'Trebuchet MS', Arial, sans-serif;
     color: #f6f6fc;
 }
 
 .menu {
     background-image:linear-gradient(to left, #AADDFF, #CCCCCC);
     border: 5pt;
-    padding: 5pt;
+    padding: 15pt;
     color: darkslategrey;
     border-radius: 25pt;
     border-style: solid;
     border-color: whitesmoke;
 }
 
+.coordonnees ul {
+    list-style: none;
+}
+
+.entete-cv {
+    margin-top: 30pt;
+}
+
+.photo img {
+    width: 200pt;
+}
+
+.accroche {
+    font-size: 200%;
+}
 .debug {
-    
     background-color: coral;
 }

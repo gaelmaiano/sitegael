@@ -24,9 +24,13 @@ body
     margin-top: 30pt;
 }
 
-
+.exp-pro {border-style: solid;}
 .exp-pro ul {
     list-style: none;
+}
+
+.exp-pro h2 {
+    padding-bottom: 15pt;
 }
 
 .exp-pro-timespan {

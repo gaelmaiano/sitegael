@@ -24,9 +24,12 @@ body
     margin-top: 30pt;
 }
 
-.exp-pro {border-style: solid;}
 .exp-pro ul {
     list-style: none;
+}
+
+.exp-pro li {
+    margin-bottom: 10pt;
 }
 
 .exp-pro h2 {
@@ -47,8 +50,8 @@ body
 
 .exp-pro-details li {
     list-style-type: circle;
+    margin-bottom: 5pt;
 }
-
 
 .photo img {
     width: 200pt;

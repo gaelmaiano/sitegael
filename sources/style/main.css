@@ -24,6 +24,7 @@ body
     margin-top: 30pt;
 }
 
+
 .exp-pro ul {
     list-style: none;
 }
@@ -35,6 +36,15 @@ body
 .exp-pro-title {
      font-weight: bold;
 }
+
+.exp-pro-details {
+    font-size: smaller;
+}
+
+.exp-pro-details li {
+    list-style-type: circle;
+}
+
 
 .photo img {
     width: 200pt;

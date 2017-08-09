@@ -28,6 +28,13 @@ body
     list-style: none;
 }
 
+.exp-pro-timespan {
+     font-style: italic;
+}
+
+.exp-pro-title {
+     font-weight: bold;
+}
 
 .photo img {
     width: 200pt;

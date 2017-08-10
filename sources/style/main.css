@@ -53,6 +53,10 @@ body
     list-style-type: circle;
     margin-bottom: 5pt;
 }
+.formation  ul {
+    list-style: none;
+}
+.divers ul {list-style: none}
 
 .photo img {
     width: 200pt;
